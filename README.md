@@ -31,7 +31,7 @@ The framework combines risk prediction, uncertainty quantification, and explaina
 ### The Proposed Computational Pipeline 
 <p align="center">
   <img src="Figures/fig03_shap_TKA.png" alt="SHAP summary for TKA" width="300" height="300"/>
-  <img src="Figures/fig05_uncertainty_TKA.png" alt="Uncertainty Quantification for TKA" width="300" height="300"/>
+  <img src="Figures/fig05_uncertainty_TKA.png" alt="Uncertainty Quantification for TKA" width="300" height="400"/>
 </p>
 
 ### Data Availability
