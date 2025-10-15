@@ -5,6 +5,7 @@
 - [Abstract](#abstract)
 - [Directory Descriptions](#directory-descriptions)
 - [The Proposed Computational Pipeline](#the-proposed-computational-pipeline)
+- [Uncertainty-Aware Explainable AI: App Interface](#uncertainty-aware-explainable-ai:-app-interface)
 - [Data Availability](#data-availability)
 - [Publications](#publications)
 - [Acknowledgments](#acknowledgments)
@@ -33,6 +34,10 @@ The framework combines risk prediction, uncertainty quantification, and explaina
   <img src="Figures/fig03_shap_TKA.png" alt="SHAP summary for TKA" width="400"/> 
   <img src="Figures/fig05_uncertainty_TKA.png" alt="Uncertainty Quantification for TKA" width="400"/> 
 </p>
+
+
+### Uncertainty-Aware Explainable AI: App Interface
+
 
 ### Data Availability
 The NSQIP dataset is available only through authorized access. As per policy, raw data cannot be shared in this repository.
