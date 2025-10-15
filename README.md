@@ -37,7 +37,9 @@ The framework combines risk prediction, uncertainty quantification, and explaina
 
 
 ### Uncertainty-Aware Explainable AI: App Interface
-
+<p align="center"> 
+  <img src="Figures/Demo_App.jpg" alt="Demo_App_Interface" width="800"/> 
+</p>
 
 ### Data Availability
 The NSQIP dataset is available only through authorized access. As per policy, raw data cannot be shared in this repository.
