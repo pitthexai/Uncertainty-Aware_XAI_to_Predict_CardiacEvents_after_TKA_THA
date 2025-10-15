@@ -5,7 +5,7 @@
 - [Abstract](#abstract)
 - [Directory Descriptions](#directory-descriptions)
 - [The Proposed Computational Pipeline](#the-proposed-computational-pipeline)
-- [Uncertainty-Aware Explainable AI: App Interface](#uncertainty-aware-explainable-ai:-app-interface)
+- [Uncertainty-Aware Explainable AI: App Interface](#uncertainty-aware-explainable-ai-app-interface)
 - [Data Availability](#data-availability)
 - [Publications](#publications)
 - [Acknowledgments](#acknowledgments)
