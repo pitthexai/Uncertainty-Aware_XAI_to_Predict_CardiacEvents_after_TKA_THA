@@ -38,12 +38,12 @@ The framework combines risk prediction, uncertainty quantification, and explaina
 
 ### Uncertainty-Aware Explainable AI: App Interface
 <p align="center"> 
-  <img src="Figures/App_2.png" alt="Demo_App_Interface" width="800"/> 
+  <img src="Figures/App_2.png" alt="App_2" width="800"/> 
 </p>
 
 <p align="center"> 
-  <img src="Figures/App_1.png" alt="Demo_App_Interface" width="400"/> 
-  <img src="Figures/App_3.png" alt="Demo_App_Interface" width="400"/> 
+  <img src="Figures/App_1.png" alt="App_1" width="400"/> 
+  <img src="Figures/App_3.png" alt="App_3" width="400"/> 
 </p>
 
 ### Data Availability
