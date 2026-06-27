@@ -49,12 +49,26 @@ The framework combines risk prediction, uncertainty quantification, and explaina
 ### Data Availability
 The NSQIP dataset is available only through authorized access. As per policy, raw data cannot be shared in this repository.
 
-### Publications
-+ <p align="justify"> Uncertainty-Aware Explainable AI to Predict Major Adverse Events in TKA/THA </p>
 
-+ <p align="justify"> Trustworthy and Uncertainty-Aware AI for Predicting Respiratory Complications Following TKA/THA <br/>
-  <em>Accepted at AMIA Annual Symposium, 2025.</em>
+
+
+
+### Publications
++ <p align="justify">
+  Explainable Machine Learning with Uncertainty Quantification for Cardiac Risk Prediction Following Total Knee and Hip Arthroplasty
+  <br/>
+  <em>Accepted at AMIA Annual Symposium, 2026.</em>
 </p>
+
++ <p align="justify">
+  Trustworthy and Uncertainty-Aware AI for Predicting Respiratory Complications Following Total Hip and Knee Arthroplasty
+  <br/>
+  <em>Published at AMIA Annual Symposium, 2025.</em>
+</p>
+
+
+
+
 
 ### Acknowledgments
 <p align="justify">
